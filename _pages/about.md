@@ -13,16 +13,16 @@ I am currently a postdoctoral researcher with the School of Electrical Engineeri
 
 Research Interests
 ------
-1. Networked/ multiplayer game theory, with both theoretical analysis and algorithm design
-1. Distributed optimization/learning, especially with constraint or uncertainty
-1. Stability, robustness, cognition, and initiative in CPS/cybersecurity
+- Networked/ multiplayer game theory, with both theoretical analysis and algorithm design
+- Distributed optimization/ learning, especially with constraint or uncertainty
+- Stability, robustness, cognition, and initiative in CPS/ cybersecurity
 
-News!
+News! :newspaper:
 ------
-1. Networked/ multiplayer game theory, with both theoretical analysis and algorithm design
-1. Distributed optimization/learning
-1. 
+- 08/2024: Our paper on nonconvex multiplayer games was accepted by _**IEEE TPAMI**_
+- 08/2024: Our two works were accepted to _**IEEE CDC 2024**_
+- 06/2024: I was honored with the best paper award, as the first author, at _IEEE International Conf. on Control & Automation **(ICCA 2024)**_
 
-Contact
+Contact :envelope:
 ------
 
