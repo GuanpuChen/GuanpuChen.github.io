@@ -19,9 +19,10 @@ Research Interests
 
 News! 🥑
 ------
-- 08/2024: Our paper on nonconvex multiplayer games was accepted by _**IEEE TPAMI**_
+- 08/2024: Our paper on [nonconvex multiplayer games](https://ieeexplore.ieee.org/abstract/document/10638825) was accepted by _**IEEE TPAMI**_
 - 08/2024: Our two works were accepted to _**IEEE CDC 2024**_
-- 06/2024: I was honored with the best paper award, as the first author, at _**IEEE ICCA 2024**_
-- 05/2024: Our paper on tri-level security games was accepted by _**IEEE TIFS**_
+- 07/2024: Our paper on [distributed Stochastic Annealing](https://ieeexplore.ieee.org/abstract/document/10612242) was accepted by _**IEEE TNNLS**_
+- 06/2024: I was honored with [the best paper award](https://ieeexplore.ieee.org/abstract/document/10591845), as the first author, at _**IEEE ICCA 2024**_
+- 05/2024: Our paper on [tri-level security games](https://ieeexplore.ieee.org/abstract/document/10520318) was accepted by _**IEEE TIFS**_
 
 
