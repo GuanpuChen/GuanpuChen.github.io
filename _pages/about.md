@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Welcome to Guanpu Chen's homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,12 +17,11 @@ Research Interests
 - Distributed optimization/ learning, especially with constraint or uncertainty
 - Stability, robustness, cognition, and initiative in CPS/ cybersecurity
 
-News! :newspaper: 🥑
+News! 🥑
 ------
 - 08/2024: Our paper on nonconvex multiplayer games was accepted by _**IEEE TPAMI**_
 - 08/2024: Our two works were accepted to _**IEEE CDC 2024**_
-- 06/2024: I was honored with the best paper award, as the first author, at _IEEE International Conf. on Control & Automation **(ICCA 2024)**_
+- 06/2024: I was honored with the best paper award, as the first author, at _**IEEE ICCA 2024**_
+- 05/2024: Our paper on tri-level security games was accepted by _**IEEE TIFS**_
 
-Contact ✉️
-------
 
