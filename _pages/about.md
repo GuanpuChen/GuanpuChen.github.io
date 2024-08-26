@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Guanpu Chen's homepage!"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
