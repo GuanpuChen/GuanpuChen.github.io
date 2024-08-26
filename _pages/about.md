@@ -24,9 +24,9 @@ Getting started
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+Bio
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I am currently a postdoctoral researcher with the School of Electrical Engineering and Computer Science at KTH Royal Institute of Technology, Stockholm, Sweden, with [Prof. Karl Henrik Johansson](https://people.kth.se/~kallej/). Before moving to Sweden, I received my Ph.D. degree from the Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences, Beijing, China, in 2022, supervised by [Prof. Yiguang Hong](https://scholar.google.com/citations?user=QUTN3IwAAAAJ). Prior to that, I got my B.Sc. degree from the University of Science and Technology of China (USTC), Anhui, China, in 2017. 
 
 Create content & metadata
 ------
