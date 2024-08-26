@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Guanpu Chen / Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Guanpu Chen"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Stockholm, Sweden"
-  employer         : "DCS, EECS, <br>KTH Royal Institute of Technology"
+  employer         : "KTH Royal Institute of Technology"
   uri              : # URL
   email            : "guanpu@kth.se" 
 
