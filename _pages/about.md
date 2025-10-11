@@ -19,14 +19,14 @@ Research Interests
 
 News! 🥑
 ------
-- 07/2025: I was honored with _**Guan Zhao-Zhi Award**_ as the first author at _**CCC 2025**_
-- 06/2025: I was invited to give a full talk at [ICAISC 2025](https://icaisc2025.icaisc.eu/), Zakopane, Poland.
+- 07/2025: I was honored with _**Guan Zhao-Zhi Award**_ at _**CCC 2025**_
+- 06/2025: I was invited to give a plenary talk at [ICAISC 2025](https://icaisc2025.icaisc.eu/), Zakopane, Poland.
 - 06/2025: I served as the co-chair for an invited session at _**ECC 2025**_
 - 05/2025: Our paper on [Bayesian hypergames for MTD](https://ieeexplore.ieee.org/document/10885834) received _**the Best Student Paper Honorable Mention**_ by _**IEEE CSS TCSP**_
 - 08/2024: Our paper on [nonconvex multiplayer games](https://ieeexplore.ieee.org/abstract/document/10638825) was accepted by _**IEEE TPAMI**_
 - 08/2024: Our two works were accepted to _**IEEE CDC 2024**_
 - 07/2024: Our paper on [distributed stochastic annealing](https://ieeexplore.ieee.org/abstract/document/10612242) was accepted by _**IEEE TNNLS**_
-- 06/2024: I was honored with  _**the Best Paper Award**_ as the first author of the paper on [nonconvex coupling games](https://ieeexplore.ieee.org/abstract/document/10591845) at _**IEEE ICCA 2024**_
+- 06/2024: I was honored with  _**the Best Paper Award**_ regarding the paper on [nonconvex coupling games](https://ieeexplore.ieee.org/abstract/document/10591845) at _**IEEE ICCA 2024**_
 - 05/2024: Our paper on [tri-level security games](https://ieeexplore.ieee.org/abstract/document/10520318) was accepted by _**IEEE TIFS**_
 
 
