@@ -26,7 +26,7 @@ News! 🥑
 - 08/2024: Our paper on [nonconvex multiplayer games](https://ieeexplore.ieee.org/abstract/document/10638825) was accepted by _**IEEE TPAMI**_
 - 08/2024: Our two works were accepted to _**IEEE CDC 2024**_
 - 07/2024: Our paper on [distributed stochastic annealing](https://ieeexplore.ieee.org/abstract/document/10612242) was accepted by _**IEEE TNNLS**_
-- 06/2024: I was honored with  _**the Best Paper Award**_ regarding the paper on [nonconvex coupling games](https://ieeexplore.ieee.org/abstract/document/10591845) at _**IEEE ICCA 2024**_
+- 06/2024: I was honored with  _**the Best Paper Award**_ at _**IEEE ICCA 2024**_ regarding the paper on [nonconvex coupling games](https://ieeexplore.ieee.org/abstract/document/10591845) 
 - 05/2024: Our paper on [tri-level security games](https://ieeexplore.ieee.org/abstract/document/10520318) was accepted by _**IEEE TIFS**_
 
 
