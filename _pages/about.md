@@ -19,6 +19,7 @@ Research Interests
 
 News! 🥑
 ------
+- 10/2025: I gave a full talk at [IEEE TCSP Rising Star Symposium](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home).
 - 07/2025: I was honored with _**Guan Zhao-Zhi Award**_ at _**CCC 2025**_
 - 06/2025: I was invited to give a plenary talk at [ICAISC 2025](https://icaisc2025.icaisc.eu/), Zakopane, Poland.
 - 06/2025: I served as the co-chair for an invited session at _**ECC 2025**_
