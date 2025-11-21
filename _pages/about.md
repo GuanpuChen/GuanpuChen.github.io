@@ -19,6 +19,7 @@ Research Interests
 
 News! 🥑
 ------
+- 11/2025: Our paper on [inverse learning for rubost game](https://ieeexplore.ieee.org/document/11258585) was accepted by _**IEEE TAC**_.
 - 10/2025: I gave a full talk at [IEEE CSS TCSP Rising Star Symposium](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home).
 - 07/2025: I was honored with _**Guan Zhao-Zhi Award**_ at _**CCC 2025**_ regarding the paper on [privacy-preserving NE computation](https://ieeexplore.ieee.org/abstract/document/11179606).
 - 06/2025: I was invited to give a plenary talk at [ICAISC 2025](https://icaisc2025.icaisc.eu/), Zakopane, Poland.
