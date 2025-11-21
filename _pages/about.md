@@ -9,7 +9,7 @@ redirect_from:
 
 Bio
 ------
-I am currently a postdoctoral researcher at the School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology, Stockholm, Sweden, with [Prof. Karl H. Johansson](https://people.kth.se/~kallej/). Before moving to Sweden, I received my Ph.D. from the Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS), Beijing, China, supervised by [Prof. Yiguang Hong](https://scholar.google.com/citations?user=QUTN3IwAAAAJ). I got my B.Sc. degree from the University of Science and Technology of China (USTC). 
+I am currently a postdoctoral researcher at the School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology, Stockholm, Sweden, with [Prof. Karl H. Johansson](https://people.kth.se/~kallej/). Before moving to Sweden, I received my Ph.D. from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China, supervised by [Prof. Yiguang Hong](https://scholar.google.com/citations?user=QUTN3IwAAAAJ). I got my B.Sc. degree from the University of Science and Technology of China. 
 
 Research Interests
 ------
