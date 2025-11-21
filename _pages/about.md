@@ -1,5 +1,11 @@
 ---
-<style>
+permalink: /
+title: "Welcome!"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+  - <style>
 .pub-container {
   padding-left: 70px;
   text-indent: -70px;
@@ -7,15 +13,6 @@
   margin-bottom: 10px;
 }
 </style>
----
-
----
-permalink: /
-title: "Welcome!"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Bio
