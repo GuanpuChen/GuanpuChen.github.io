@@ -5,14 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - <style>
-.pub-container {
-  padding-left: 70px;
-  text-indent: -70px;
-  margin-left: 20px;
-  margin-bottom: 10px;
-}
-</style>
 ---
 
 Bio
