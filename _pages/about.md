@@ -23,7 +23,7 @@ News! 🥑
 ------
 - 11/2025: Our paper on [inverse learning for robust game](https://ieeexplore.ieee.org/document/11258585) was accepted by _**IEEE TAC**_.
 - 10/2025: I gave a full talk at [IEEE CSS TCSP Rising Star Symposium](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home).
-- <span style="padding-left: 70px; text-indent: -70px; display: inline-block;">07/2025: I was honored with _**Guan Zhao-Zhi Award**_ at _**CCC 2025**_ regardin???g the paper on [privacy-preserving NE computation](https://ieeexplore.ieee.org/document/11179606).</span>
+- 07/2025: <span style="margin-left: -8px; padding-left: 8px; display: inline-block;">I was honored with _**Guan Zhao-Zhi Award**_ at _**CCC 2025**_ regarding the paper on [privacy-preserving NE computation](https://ieeexplore.ieee.org/document/11179606).
 - 06/2025: I was invited to give a plenary talk at [ICAISC 2025](https://icaisc2025.icaisc.eu/), Zakopane, Poland.
 - 06/2025: I served as the co-chair for an invited session at _**ECC 2025**_, also with one accepted paper on [zero-determinant strategy](https://ieeexplore.ieee.org/abstract/document/11186931).
 - 05/2025: Our paper on [Bayesian hypergames for MTD](https://ieeexplore.ieee.org/document/10885834) received _**the Best Student Paper Honorable Mention**_ by _**IEEE CSS TCSP**_.
