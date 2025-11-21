@@ -35,8 +35,8 @@ Research Interests
 News! 🥑
 ------
 <ul>
-- <li class="pub-container">11/2025: Our paper on [inverse learning for robust game](https://ieeexplore.ieee.org/document/11258585) was accepted by _**IEEE TAC**_.
-- <li class="pub-container">10/2025: I gave a full talk at [IEEE CSS TCSP Rising Star Symposium](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home).
+<li class="pub-container">11/2025: Our paper on [inverse learning for robust game](https://ieeexplore.ieee.org/document/11258585) was accepted by _**IEEE TAC**_.
+<li class="pub-container">10/2025: I gave a full talk at [IEEE CSS TCSP Rising Star Symposium](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home).
 - 07/2025: I was honored with _**Guan Zhao-Zhi Award**_ at _**CCC 2025**_ regarding the paper on [privacy-preserving NE computation](https://ieeexplore.ieee.org/abstract/document/11179606).
 - 06/2025: I was invited to give a plenary talk at [ICAISC 2025](https://icaisc2025.icaisc.eu/), Zakopane, Poland.
 - 06/2025: I served as the co-chair for an invited session at _**ECC 2025**_, also with one accepted paper on [zero-determinant strategy](https://ieeexplore.ieee.org/abstract/document/11186931).
