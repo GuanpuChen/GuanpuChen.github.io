@@ -1,3 +1,13 @@
+<style>
+.pub-container {
+  padding-left: 70px;
+  text-indent: -70px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+</style>
+
+
 ---
 permalink: /
 title: "Welcome!"
@@ -17,14 +27,7 @@ Research Interests
 - Distributed optimization/ learning, especially with constraint or uncertainty
 - Stability, robustness, cognition, and initiative in CPS/ cybersecurity
 
-<style>
-.pub-container {
-  padding-left: 70px;
-  text-indent: -70px;
-  margin-left: 20px;
-  margin-bottom: 10px;
-}
-</style>
+
 ---
 <ul>
   <li class="pub-container">11/2025: Our paper on <a href="https://ieeexplore.ieee.org/document/11258585">inverse learning for robust game</a> was accepted by <em>IEEE TAC</em>.</li>
