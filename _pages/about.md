@@ -1,3 +1,4 @@
+---
 <style>
 .pub-container {
   padding-left: 70px;
@@ -6,7 +7,7 @@
   margin-bottom: 10px;
 }
 </style>
-
+---
 
 ---
 permalink: /
