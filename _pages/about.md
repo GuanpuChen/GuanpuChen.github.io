@@ -21,6 +21,7 @@ Research Interests
 
 News! 🥑
 ------
+- <span style="float: left; margin-right: 8px;">03/2026:</span> <span style="display: block; overflow: hidden;">I joined in Southeast University as a [full professor](https://automation.seu.edu.cn/cgp/list.htm).</span>
 - <span style="float: left; margin-right: 8px;">11/2025:</span> <span style="display: block; overflow: hidden;">Our paper on [inverse learning for robust game](https://ieeexplore.ieee.org/document/11258585) was accepted by _**IEEE TAC**_.</span>
 - <span style="float: left; margin-right: 8px;">10/2025:</span> <span style="display: block; overflow: hidden;">I gave a full talk at [IEEE CSS TCSP Rising Star Symposium](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home).</span>
 - <span style="float: left; margin-right: 8px;">07/2025:</span> <span style="display: block; overflow: hidden;">I was honored with _**Guan Zhao-Zhi Award**_ at _**CCC 2025**_ regarding the paper on [privacy-preserving NE computation](https://ieeexplore.ieee.org/document/11179606).</span>
