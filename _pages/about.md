@@ -21,6 +21,7 @@ Research Interests
 
 News! 🥑
 ------
+- <span style="float: left; margin-right: 8px;">06/2026:</span> <span style="display: block; overflow: hidden;"> Our paper on [insider for APT defense](https://doi.org/10.1142/S2301385024410152) received _**2023-2024 Annual Best Paper Award**_ by _**Unmanned Systems**_.</span>
 - <span style="float: left; margin-right: 8px;">03/2026:</span> <span style="display: block; overflow: hidden;">I joined in Southeast University as a [full professor](https://automation.seu.edu.cn/cgp/list.htm).</span>
 - <span style="float: left; margin-right: 8px;">11/2025:</span> <span style="display: block; overflow: hidden;">Our paper on [inverse learning for robust game](https://ieeexplore.ieee.org/document/11258585) was accepted by _**IEEE TAC**_.</span>
 - <span style="float: left; margin-right: 8px;">10/2025:</span> <span style="display: block; overflow: hidden;">I gave a full talk at [IEEE CSS TCSP Rising Star Symposium](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home).</span>
