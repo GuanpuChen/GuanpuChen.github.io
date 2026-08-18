@@ -9,18 +9,20 @@ redirect_from:
 
 Bio
 ------
-I am a professor with School of Automation, Southeast University, Nanjing, China. I used to be a postdoctoral researcher at the School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology, Stockholm, Sweden, with [Prof. Karl H. Johansson](https://people.kth.se/~kallej/). I received my Ph.D. from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China, supervised by [Prof. Yiguang Hong](https://scholar.google.com/citations?user=QUTN3IwAAAAJ). I got my B.Sc. degree from the University of Science and Technology of China. 
+I got my B.Sc. degree from the University of Science and Technology of China, and my Ph.D. from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China, supervised by [Prof. Yiguang Hong](https://scholar.google.com/citations?user=QUTN3IwAAAAJ). I used to be a postdoctoral researcher at the School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology, Stockholm, Sweden, with [Prof. Karl H. Johansson](https://people.kth.se/~kallej/). I am a professor at the School of Automation, Southeast University, Nanjing, China.
 
 Research Interests
 ------
 - Networked/ multiplayer game theory, with both theoretical analysis and algorithm design
-- Distributed optimization/ learning, especially with constraint, uncertainty, and nonconvexity
+- Distributed optimization/ learning, especially with constraints, uncertainty, and nonconvexity
 - Stability, robustness, cognition, and initiative in CPS/ cybersecurity
 
 
 
 News! 🥑
 ------
+- <span style="float: left; margin-right: 8px;">08/2026:</span> <span style="display: block; overflow: hidden;">Our paper on [Global NE of Nonconvex Game for SNL](https://arxiv.org/abs/2401.02471) was accepted by _**Automatica**_.</span>
+- <span style="float: left; margin-right: 8px;">08/2026:</span> <span style="display: block; overflow: hidden;">Our paper on [FlipIt-Insider Bayesian Model against APT](https://arxiv.org/abs/2510.07430) was accepted by _**IEEE TITS**_.</span>
 - <span style="float: left; margin-right: 8px;">06/2026:</span> <span style="display: block; overflow: hidden;"> Our paper on [insider for APT defense](https://doi.org/10.1142/S2301385024410152) received _**2023-2024 Annual Best Paper Award**_ by _**Unmanned Systems**_.</span>
 - <span style="float: left; margin-right: 8px;">03/2026:</span> <span style="display: block; overflow: hidden;">I joined in Southeast University as a [full professor](https://automation.seu.edu.cn/cgp/list.htm).</span>
 - <span style="float: left; margin-right: 8px;">11/2025:</span> <span style="display: block; overflow: hidden;">Our paper on [inverse learning for robust game](https://ieeexplore.ieee.org/document/11258585) was accepted by _**IEEE TAC**_.</span>
