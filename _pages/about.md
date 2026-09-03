@@ -22,7 +22,7 @@ Research Interests
 News! 🥑
 ------
 - <span style="float: left; margin-right: 8px;">08/2026:</span> <span style="display: block; overflow: hidden;">Our paper on [Global NE of Nonconvex Game for SNL](https://arxiv.org/abs/2401.02471) was accepted by _**Automatica**_.</span>
-- <span style="float: left; margin-right: 8px;">08/2026:</span> <span style="display: block; overflow: hidden;">Our paper on [FlipIt-Insider Bayesian Model against APT](https://arxiv.org/abs/2510.07430) was accepted by _**IEEE TITS**_.</span>
+- <span style="float: left; margin-right: 8px;">08/2026:</span> <span style="display: block; overflow: hidden;">Our paper on [FlipIt-Insider Bayesian Model against APT](https://arxiv.org/abs/2510.07430) was accepted by _**IEEE TIFS**_.</span>
 - <span style="float: left; margin-right: 8px;">06/2026:</span> <span style="display: block; overflow: hidden;"> Our paper on [insider for APT defense](https://doi.org/10.1142/S2301385024410152) received _**2023-2024 Annual Best Paper Award**_ by _**Unmanned Systems**_.</span>
 - <span style="float: left; margin-right: 8px;">03/2026:</span> <span style="display: block; overflow: hidden;">I joined in Southeast University as a [full professor](https://automation.seu.edu.cn/cgp/list.htm).</span>
 - <span style="float: left; margin-right: 8px;">11/2025:</span> <span style="display: block; overflow: hidden;">Our paper on [inverse learning for robust game](https://ieeexplore.ieee.org/document/11258585) was accepted by _**IEEE TAC**_.</span>
