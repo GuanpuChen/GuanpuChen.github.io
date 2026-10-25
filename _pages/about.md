@@ -21,6 +21,7 @@ Research Interests
 
 News! 🥑
 ------
+- <span style="float: left; margin-right: 8px;">10/2026:</span> <span style="display: block; overflow: hidden;">Our paper on [PML vs DP on Aggregative Games](https://ieeexplore.ieee.org/document/11258585) was accepted by _**IEEE TAC**_.</span>
 - <span style="float: left; margin-right: 8px;">08/2026:</span> <span style="display: block; overflow: hidden;">Our paper on [Global NE of Nonconvex Game for SNL](https://arxiv.org/abs/2401.02471) was accepted by _**Automatica**_.</span>
 - <span style="float: left; margin-right: 8px;">08/2026:</span> <span style="display: block; overflow: hidden;">Our paper on [FlipIt-Insider Bayesian Model against APT](https://ieeexplore.ieee.org/abstract/document/11660825) was accepted by _**IEEE TIFS**_.</span>
 - <span style="float: left; margin-right: 8px;">06/2026:</span> <span style="display: block; overflow: hidden;"> Our paper on [insider for APT defense](https://doi.org/10.1142/S2301385024410152) received _**2023-2024 Annual Best Paper Award**_ by _**Unmanned Systems**_.</span>
