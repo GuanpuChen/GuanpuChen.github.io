@@ -39,3 +39,34 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* 桌面端：扩大正文区域，并给个人信息栏留出明确间距 */
+@media screen and (min-width: 1024px) {
+  #main {
+    width: 100%;
+    max-width: none;
+    padding-left: 3vw;
+    padding-right: 3vw;
+  }
+
+  #main > .sidebar {
+    width: 240px;
+    max-width: 240px;
+    margin-right: 0;
+  }
+
+  #main > .page,
+  #main > .archive {
+    float: right;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  #main > .sidebar ~ .page,
+  #main > .sidebar ~ .archive {
+    width: calc(100% - 288px);
+  }
+}
