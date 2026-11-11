@@ -9,20 +9,21 @@ redirect_from:
 
 Bio
 ------
-I got my B.Sc. degree from University of Science and Technology of China, and my Ph.D. from Academy of Mathematics and Systems Science, Chinese Academy of Sciences, supervised by [Prof. Yiguang Hong](https://scholar.google.com/citations?user=QUTN3IwAAAAJ). I used to be a postdoctoral researcher at KTH Royal Institute of Technology, Stockholm, Sweden, with [Prof. Karl H. Johansson](https://people.kth.se/~kallej/). I am now a professor at the School of Automation, Southeast University, Nanjing, China.
+I got my B.Sc. degree from University of Science and Technology of China, and my Ph.D. from Academy of Mathematics and Systems Science, Chinese Academy of Sciences, supervised by [Prof. Yiguang Hong](https://scholar.google.com/citations?user=QUTN3IwAAAAJ). I used to be a postdoctoral researcher at KTH Royal Institute of Technology, Stockholm, Sweden, with [Prof. Karl H. Johansson](https://people.kth.se/~kallej/). I am now a full professor at the School of Automation, Southeast University, Nanjing, China.
 
 Research Interests
 ------
 - Networked/ multiplayer game theory, with both theoretical analysis and algorithm design
 - Distributed optimization/ learning, especially with constraints, uncertainty, and nonconvexity
-- Stability, robustness, cognition, and initiative in CPS/ cybersecurity
+- Stability, robustness, sensitivity, and cognition in CPS/ cybersecurity
 
 
 
 News! 🥑
 ------
+- <span style="float: left; margin-right: 8px;">11/2026:</span> <span style="display: block; overflow: hidden;">Our paper on [Singular Perturbation for Approximate GNE](https://www.sciopen.com/article/10.26599/C2ST.2026.9700010) was accepted by _**C2ST**_.</span>
 - <span style="float: left; margin-right: 8px;">10/2026:</span> <span style="display: block; overflow: hidden;">Our paper on [PML vs DP on Aggregative Games](https://ieeexplore.ieee.org/document/11740677) was accepted by _**IEEE TAC**_.</span>
-- <span style="float: left; margin-right: 8px;">08/2026:</span> <span style="display: block; overflow: hidden;">Our paper on [Global NE of Nonconvex Game for SNL](https://arxiv.org/abs/2401.02471) was accepted by _**Automatica**_.</span>
+- <span style="float: left; margin-right: 8px;">09/2026:</span> <span style="display: block; overflow: hidden;">Our paper on [Global NE of Nonconvex Game for SNL](https://arxiv.org/abs/2401.02471) was accepted by _**Automatica**_.</span>
 - <span style="float: left; margin-right: 8px;">08/2026:</span> <span style="display: block; overflow: hidden;">Our paper on [FlipIt-Insider Bayesian Model against APT](https://ieeexplore.ieee.org/abstract/document/11660825) was accepted by _**IEEE TIFS**_.</span>
 - <span style="float: left; margin-right: 8px;">08/2026:</span> <span style="display: block; overflow: hidden;">I gave a talk at 2026 IFAC World Congress about our paper on [Robust Nonconvex Minimax Problem](https://arxiv.org/abs/2511.15606).</span>
 - <span style="float: left; margin-right: 8px;">06/2026:</span> <span style="display: block; overflow: hidden;"> Our paper on [insider for APT defense](https://doi.org/10.1142/S2301385024410152) received _**2023-2024 Annual Best Paper Award**_ by _**Unmanned Systems**_.</span>
